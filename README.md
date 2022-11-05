@@ -1,7 +1,7 @@
 # Procesamiento Natural del Lenguaje
 
 ### Desafio 1: WordtoVec
-  * OneHotEncodding
+  * OneHotEncoding
   * Vector de frecuencia
   * TF-IDF
   * Similitud coseno 
