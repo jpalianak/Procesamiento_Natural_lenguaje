@@ -16,4 +16,4 @@ Se utilizo un corpus de las 50 canciones mas populares del rock argentino en un 
 
 
 ### Desafio 4: Prediccion de proxima palabra
-Se utilizo el corpus del libre "Papeles en el viento" de Eduardo Sacheri. Los resultados no fueron buenos, ya que el tamaño posible del corpus que Google Colab nos permite procesar no es lo suficientemente grande como para poder tener un buen resultado.
+Se utilizo el corpus del libre "Papeles en el viento" de Eduardo Sacheri. Se utilizo un modelo LSTM con embedding.
