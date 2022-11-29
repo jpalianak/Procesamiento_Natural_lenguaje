@@ -17,3 +17,13 @@ Se utilizo un corpus de las 50 canciones mas populares del rock argentino en un 
 
 ### Desafio 4: Predicción de próxima palabra
 Se utilizo el corpus del libre "Papeles en el viento" de Eduardo Sacheri. Se utilizo un modelo LSTM junto con una primer capa de embedding.
+
+
+### Desafio 5: Analisis de sentimientos
+Para este desafio se utilizo un dataset de reviews de criticas de e-commerce. Las etapas incluyen:
+  - Dataset sin tratamiento de balanceo
+     * Modelo embedding + LSTM
+     * Modelo embedding de fasttext preentrenado + LSTM
+  - Dataset con tratamiento de balanceo
+     * Modelo embedding + LSTM
+     * Modelo embedding de fasttext preentrenado + LSTM
