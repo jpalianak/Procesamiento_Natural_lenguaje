@@ -13,3 +13,7 @@
    
 ### Desafio 3: Embedding con Gemsim
 Se utilizo un corpus de las 50 canciones mas populares del rock argentino en un ranking presentado por la revista Rolling Stone en colaboración con la cadena MTV.
+
+
+### Desafio 4: Predicción de próxima palabra
+Se utilizo el corpus del libre "Papeles en el viento" de Eduardo Sacheri. Se utilizo un modelo LSTM junto con una primer capa de embedding.
