@@ -20,10 +20,10 @@ Se utilizo el corpus del libre "Papeles en el viento" de Eduardo Sacheri. Se uti
 
 
 ### Desafio 5: Analisis de sentimientos
-Para este desafio se utilizo un dataset de reviews de criticas de e-commerce. Las etapas incluyen:
-  - Dataset sin tratamiento de balanceo
+El dataset utilizado es de críticas de compradores de ropa (eCommerce) los cuales puntuaron a cada prenda con un puntaje de 1 a 5 estrellas. Las etapas incluyen:
+  - Con el dataset sin balancear
      * Modelo embedding + LSTM
-     * Modelo embedding de fasttext preentrenado + LSTM
-  - Dataset con tratamiento de balanceo
+     * Modelo embedding de FastText preentrenado + LSTM
+  - Con el dataset balanceado
      * Modelo embedding + LSTM
-     * Modelo embedding de fasttext preentrenado + LSTM
+     * Modelo embedding de FastText preentrenado + LSTM
