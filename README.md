@@ -2,10 +2,10 @@
 <img src="https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/logoFIUBA.jpg" align="right"
      alt="Logo FIUBA" width="350" height="150">
      
-# Procesamiento Natural del Lenguaje
+# Procesamiento Natural del Lenguaje - Carrera de Especializacion en Inteligencia Artificial
 
 ### Desafio 1: WordtoVec
-  * OneHotEncoding
+  * [OneHotEncoding]
   * Vector de frecuencia
   * TF-IDF
   * Similitud coseno 
