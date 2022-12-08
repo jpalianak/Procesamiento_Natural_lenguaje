@@ -2,30 +2,44 @@
 <img src="https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/logoFIUBA.jpg" align="right"
      alt="Logo FIUBA" width="350" height="150">
      
-# Procesamiento Natural del Lenguaje - Carrera de Especializacion en Inteligencia Artificial
+# Procesamiento Natural del Lenguaje *Carrera de Especializacion en Inteligencia Artificial*
 
-### [Desafio 1: WordtoVec](https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/clase_1/Desafio/1a_word2vec.ipynb)
+El repositorio contiene los 6 desafios que fuimos realizando a lo largo del bimestre.
+
+<img src="https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/logoFIUBA.jpg" align="right"
+     alt="Logo FIUBA" width="350" height="150">
+     
+### [Desafio 1: WordtoVec](https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/clase_1/Desafio)
   * OneHotEncoding
   * Vector de frecuencia
   * TF-IDF
   * Similitud coseno 
 
-
-### Desafio 2: BOT dnn spacy español
-   Bot en español utilizando spacy stanza para la venta de un producto
-     * [Considerando las Stop Word](https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/clase_2/Desafio/2b-bot_dnn_spacy_esp_stopword_off.ipynb)
-     * [Sin considerar Sopt Word](https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/clase_2/Desafio/2b-bot_dnn_spacy_esp_stopword_on.ipynb)
+<img src="https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/logoFIUBA.jpg" align="right"
+     alt="Logo FIUBA" width="350" height="150">
+     
+### [Desafio 2: BOT dnn spacy español](https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/clase_2/Desafio)
+   Bot en español utilizando spacy stanza para la venta de un productos
    
+   * Considerando las Stop Word
+   * Sin considerar Sopt Word
    
-### Desafio 3: Embedding con Gemsim
+<img src="https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/logoFIUBA.jpg" align="right"
+     alt="Logo FIUBA" width="350" height="150">
+     
+### [Desafio 3: Embedding con Gemsim](https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/clase_3/Desafio)
 Se utilizo un corpus de las 50 canciones mas populares del rock argentino en un ranking presentado por la revista Rolling Stone en colaboración con la cadena MTV.
 
-
-### Desafio 4: Predicción de próxima palabra
+<img src="https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/logoFIUBA.jpg" align="right"
+     alt="Logo FIUBA" width="350" height="150">
+     
+### [Desafio 4: Predicción de próxima palabra](https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/clase_4/Desafio)
 Se utilizo el corpus del libre "Papeles en el viento" de Eduardo Sacheri. Se utilizo un modelo LSTM junto con una primer capa de embedding.
 
-
-### Desafio 5: Analisis de sentimientos
+<img src="https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/logoFIUBA.jpg" align="right"
+     alt="Logo FIUBA" width="350" height="150">
+     
+### [Desafio 5: Analisis de sentimientos](https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/clase_5/Desafio)
 El dataset utilizado es de críticas de compradores de ropa (eCommerce) los cuales puntuaron a cada prenda con un puntaje de 1 a 5 estrellas. Las etapas incluyen:
   - Con el dataset sin balancear
      * Modelo embedding + LSTM
@@ -34,4 +48,7 @@ El dataset utilizado es de críticas de compradores de ropa (eCommerce) los cual
      * Modelo embedding + LSTM
      * Modelo embedding de FastText preentrenado + LSTM
 
-### Desafio 6: QA Bot
+<img src="https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/logoFIUBA.jpg" align="right"
+     alt="Logo FIUBA" width="350" height="150">
+
+### [Desafio 6: QA Bot](https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/clase_6/Desafio)
