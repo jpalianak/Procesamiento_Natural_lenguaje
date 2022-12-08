@@ -4,7 +4,7 @@
      
 # Procesamiento Natural del Lenguaje - Carrera de Especializacion en Inteligencia Artificial
 
-### Desafio 1: WordtoVec(https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/clase_1/Desafio/1a_word2vec.ipynb)
+### [Desafio 1: WordtoVec](https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/clase_1/Desafio/1a_word2vec.ipynb)
   * OneHotEncoding
   * Vector de frecuencia
   * TF-IDF
@@ -13,6 +13,8 @@
 
 ### Desafio 2: BOT dnn spacy español
    Bot en español utilizando spacy stanza para la venta de un producto
+     * [Considerando las Stop Word](https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/clase_2/Desafio/2b-bot_dnn_spacy_esp_stopword_off.ipynb)
+     * [Sin considerar Sopt Word](https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/clase_2/Desafio/2b-bot_dnn_spacy_esp_stopword_on.ipynb)
    
    
 ### Desafio 3: Embedding con Gemsim
