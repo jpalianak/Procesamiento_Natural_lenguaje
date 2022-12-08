@@ -4,8 +4,8 @@
      
 # Procesamiento Natural del Lenguaje - Carrera de Especializacion en Inteligencia Artificial
 
-### Desafio 1: WordtoVec
-  * [OneHotEncoding](https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/clase_1/Desafio/1a_word2vec.ipynb)
+### Desafio 1: WordtoVec(https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/clase_1/Desafio/1a_word2vec.ipynb)
+  * OneHotEncoding
   * Vector de frecuencia
   * TF-IDF
   * Similitud coseno 
