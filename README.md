@@ -1,5 +1,5 @@
 
-<img src="https://github.com/jpalianak/Procesamiento_Natural_lenguaje/logoFIUBA.jpg" align="right"
+<img src="https://raw.githubusercontent.com/Procesamiento_Natural_lenguaje/master/assets/logoFIUBA.jpg" align="right"
      alt="Logo FIUBA" width="120" height="178">
      
 # Procesamiento Natural del Lenguaje
