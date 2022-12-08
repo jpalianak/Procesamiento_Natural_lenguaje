@@ -1,3 +1,7 @@
+
+<img src="https://github.com/jpalianak/Procesamiento_Natural_lenguaje/logoFIUBA.jpg" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+     
 # Procesamiento Natural del Lenguaje
 
 ### Desafio 1: WordtoVec
