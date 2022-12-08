@@ -27,3 +27,5 @@ El dataset utilizado es de críticas de compradores de ropa (eCommerce) los cual
   - Con el dataset balanceado
      * Modelo embedding + LSTM
      * Modelo embedding de FastText preentrenado + LSTM
+
+### Desafio 6: QA Bot
