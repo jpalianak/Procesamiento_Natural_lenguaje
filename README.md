@@ -13,7 +13,7 @@
 <br />
 <br />
 
-<img src="https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/img/esafio1.png" align="right"
+<img src="https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/img/Desafio1.png" align="right"
      alt="Logo FIUBA" width="250" height="150">     
 ## [Desafio 1: Word2vec](https://github.com/jpalianak/Procesamiento_Natural_lenguaje/blob/main/clase_1/Desafio)
 El objetivo es empezar a familiarizarse con el manejo de terminos y herramientas del Procesamiento Natural del Lenguaje.
